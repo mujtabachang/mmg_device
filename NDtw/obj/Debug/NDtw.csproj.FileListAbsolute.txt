@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\AhmedCode-Myo\NDtw\bin\Debug\NDtw.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\AhmedCode-Myo\NDtw\bin\Debug\NDtw.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\AhmedCode-Myo\NDtw\obj\Debug\NDtw.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\AhmedCode-Myo\NDtw\obj\Debug\NDtw.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\AhmedCode-Myo\NDtw\obj\Debug\NDtw.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\AhmedCode-Myo- ASAD BACKUP\AhmedCode-Myo\NDtw\bin\Debug\NDtw.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\AhmedCode-Myo- ASAD BACKUP\AhmedCode-Myo\NDtw\bin\Debug\NDtw.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\AhmedCode-Myo- ASAD BACKUP\AhmedCode-Myo\NDtw\obj\Debug\NDtw.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\AhmedCode-Myo- ASAD BACKUP\AhmedCode-Myo\NDtw\obj\Debug\NDtw.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\AhmedCode-Myo- ASAD BACKUP\AhmedCode-Myo\NDtw\obj\Debug\NDtw.pdb

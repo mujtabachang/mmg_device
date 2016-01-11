@@ -1,0 +1,13 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\AhmedCode-Myo\AhmedCode-Myo\bin\x64\Debug\AhmedCode-Myo.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\AhmedCode-Myo\AhmedCode-Myo\bin\x64\Debug\AhmedCode-Myo.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\AhmedCode-Myo\AhmedCode-Myo\bin\x64\Debug\AhmedCode-Myo.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\AhmedCode-Myo\AhmedCode-Myo\bin\x64\Debug\NAudio.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\AhmedCode-Myo\AhmedCode-Myo\bin\x64\Debug\NDtw.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\AhmedCode-Myo\AhmedCode-Myo\bin\x64\Debug\NDtw.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\AhmedCode-Myo\AhmedCode-Myo\bin\x64\Debug\NAudio.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\AhmedCode-Myo\AhmedCode-Myo\obj\x64\Debug\AhmedCode-Myo.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\AhmedCode-Myo\AhmedCode-Myo\obj\x64\Debug\AhmedCode_Myo.Form1.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\AhmedCode-Myo\AhmedCode-Myo\obj\x64\Debug\AhmedCode_Myo.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\AhmedCode-Myo\AhmedCode-Myo\obj\x64\Debug\AhmedCode-Myo.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\AhmedCode-Myo\AhmedCode-Myo\obj\x64\Debug\AhmedCode-Myo.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\AhmedCode-Myo\AhmedCode-Myo\obj\x64\Debug\AhmedCode-Myo.pdb

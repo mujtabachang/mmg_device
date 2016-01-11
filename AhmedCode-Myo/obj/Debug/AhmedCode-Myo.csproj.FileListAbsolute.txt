@@ -1,0 +1,31 @@
+c:\users\user\documents\visual studio 2013\Projects\AhmedCode-Myo\AhmedCode-Myo\bin\Debug\AhmedCode-Myo.exe.config
+c:\users\user\documents\visual studio 2013\Projects\AhmedCode-Myo\AhmedCode-Myo\obj\Debug\AhmedCode-Myo.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\AhmedCode-Myo\AhmedCode-Myo\obj\Debug\AhmedCode_Myo.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\AhmedCode-Myo\AhmedCode-Myo\obj\Debug\AhmedCode_Myo.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\AhmedCode-Myo\AhmedCode-Myo\obj\Debug\AhmedCode-Myo.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\AhmedCode-Myo\AhmedCode-Myo\bin\Debug\AhmedCode-Myo.exe
+c:\users\user\documents\visual studio 2013\Projects\AhmedCode-Myo\AhmedCode-Myo\bin\Debug\AhmedCode-Myo.pdb
+c:\users\user\documents\visual studio 2013\Projects\AhmedCode-Myo\AhmedCode-Myo\bin\Debug\NAudio.dll
+c:\users\user\documents\visual studio 2013\Projects\AhmedCode-Myo\AhmedCode-Myo\bin\Debug\NAudio.xml
+c:\users\user\documents\visual studio 2013\Projects\AhmedCode-Myo\AhmedCode-Myo\obj\Debug\AhmedCode-Myo.exe
+c:\users\user\documents\visual studio 2013\Projects\AhmedCode-Myo\AhmedCode-Myo\obj\Debug\AhmedCode-Myo.pdb
+c:\users\user\documents\visual studio 2013\Projects\AhmedCode-Myo\AhmedCode-Myo\bin\Debug\NDtw.dll
+c:\users\user\documents\visual studio 2013\Projects\AhmedCode-Myo\AhmedCode-Myo\bin\Debug\NDtw.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\AhmedCode-Myo- ASAD BACKUP\AhmedCode-Myo\AhmedCode-Myo\bin\Debug\AhmedCode-Myo.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\AhmedCode-Myo- ASAD BACKUP\AhmedCode-Myo\AhmedCode-Myo\obj\Debug\AhmedCode-Myo.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\AhmedCode-Myo- ASAD BACKUP\AhmedCode-Myo\AhmedCode-Myo\obj\Debug\AhmedCode-Myo.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\AhmedCode-Myo- ASAD BACKUP\AhmedCode-Myo\AhmedCode-Myo\bin\Debug\AhmedCode-Myo.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\AhmedCode-Myo- ASAD BACKUP\AhmedCode-Myo\AhmedCode-Myo\bin\Debug\AhmedCode-Myo.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\AhmedCode-Myo- ASAD BACKUP\AhmedCode-Myo\AhmedCode-Myo\bin\Debug\NAudio.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\AhmedCode-Myo- ASAD BACKUP\AhmedCode-Myo\AhmedCode-Myo\bin\Debug\NDtw.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\AhmedCode-Myo- ASAD BACKUP\AhmedCode-Myo\AhmedCode-Myo\bin\Debug\NDtw.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\AhmedCode-Myo- ASAD BACKUP\AhmedCode-Myo\AhmedCode-Myo\bin\Debug\NAudio.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\AhmedCode-Myo- ASAD BACKUP\AhmedCode-Myo\AhmedCode-Myo\obj\Debug\AhmedCode-Myo.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\AhmedCode-Myo- ASAD BACKUP\AhmedCode-Myo\AhmedCode-Myo\obj\Debug\AhmedCode_Myo.Form1.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\AhmedCode-Myo- ASAD BACKUP\AhmedCode-Myo\AhmedCode-Myo\obj\Debug\AhmedCode_Myo.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\AhmedCode-Myo- ASAD BACKUP\AhmedCode-Myo\AhmedCode-Myo\obj\Debug\AhmedCode-Myo.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\AhmedCode-Myo- ASAD BACKUP\AhmedCode-Myo\AhmedCode-Myo\obj\Debug\Testing_ResizingForm.frmArrowing.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\AhmedCode-Myo- ASAD BACKUP\AhmedCode-Myo\AhmedCode-Myo\obj\Debug\Testing_ResizingForm.frmSerialInterface.resources
+C:\Users\Ahmed\Dropbox\Research Proposal 2\C# 2013 Project files\AhmedCode-Myo- ASAD BACKUP\AhmedCode-Myo\AhmedCode-Myo\bin\Debug\AhmedCode-Myo.exe.config
+C:\Users\Ahmed\Dropbox\Research Proposal 2\C# 2013 Project files\AhmedCode-Myo- ASAD BACKUP\AhmedCode-Myo\AhmedCode-Myo\obj\Debug\AhmedCode-Myo.exe
+C:\Users\Ahmed\Dropbox\Research Proposal 2\C# 2013 Project files\AhmedCode-Myo- ASAD BACKUP\AhmedCode-Myo\AhmedCode-Myo\obj\Debug\AhmedCode-Myo.pdb
