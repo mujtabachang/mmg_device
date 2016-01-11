@@ -42,4 +42,4 @@ The hardware is an armband with circuit and microphones in it. Which is based on
 ## See it in action
 Here is the [YouTube link](https://www.youtube.com/watch?v=y2k2RjonWgw)
 
-## LICENSE  [MIT](LICENSE.md)
+## LICENSE  [MIT](LICENSE)
