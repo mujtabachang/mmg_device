@@ -1,6 +1,6 @@
 ##Mechanomyogram Device for Gesture Detection##
 
-**Hardware assisted gesture detection app**
+**A low cost hardware assisted hand gesture detection app**
 
 [Mechanmyogram](https://en.wikipedia.org/wiki/Mechanomyogram), or [MMG](https://en.wikipedia.org/wiki/Mechanomyogram) for short, is a biomedical signal that is emitted by the muscles.This signal is detected from the forearm muscles to know what hand gesture is made and fed into the computer. This was my Masters project at Mehran University.
 
@@ -16,3 +16,25 @@ Basically you plug in the MMG Device (the hardware), switch it on. Open the appl
  - [NAudio](https://github.com/naudio/NAudio)
  - [NDtw](https://github.com/doblak/ndtw)
  
+**Hardware**
+ 
+The hardware is an armband with circuit and microphones in it. Which is based on [Xth Sense](http://res.marcodonnarumma.com/category/project-xth-sense/hardware-design/), but with addition of two microphones. However the project code only uses Mono for now (Both mics will be used for future). 
+
+> Schematic design
+
+![Schematic](Circuit.png?raw=true)
+
+
+> Circuit on Veroboard
+
+![Circuit](Circuit_Real.PNG?raw=true)
+
+
+> The whole armband with circuit and microphones look like this
+
+![Armband](Armband.PNG?raw=true)
+
+
+> And when it is worn on the forearm
+
+![Armband worn](Worn.PNG?raw=true)
