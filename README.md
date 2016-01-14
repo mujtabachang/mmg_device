@@ -1,5 +1,7 @@
 ##Mechanomyogram Device for Gesture Detection##
 
+[Project homepage][http://www.mujtabachang.com/mmg-device.html]
+
 **A low cost hardware assisted hand gesture detection app**
 
 [Mechanmyogram](https://en.wikipedia.org/wiki/Mechanomyogram), or [MMG](https://en.wikipedia.org/wiki/Mechanomyogram) for short, is a biomedical signal that is emitted by the muscles.This signal is detected from the forearm muscles to know what hand gesture is made and fed into the computer. The whole thing costs around 5 dollars. This was my Masters project at Mehran University.
