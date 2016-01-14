@@ -1,6 +1,6 @@
 ##Mechanomyogram Device for Gesture Detection##
 
-[Project homepage][http://www.mujtabachang.com/mmg-device.html]
+[Project homepage](http://www.mujtabachang.com/mmg-device.html)
 
 **A low cost hardware assisted hand gesture detection app**
 
